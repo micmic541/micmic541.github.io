@@ -1,0 +1,68 @@
+@charset"UTF-8"; 
+
+body {
+	background-color: #f9f4ef; 
+}
+
+.btn {
+	background-color: #8c7851; 
+	color: #fff; 
+}
+
+.btn:hover {
+	color: #eaddcf; 
+}
+
+header {
+position: relative; }
+
+
+.navbar { 
+	background-color: #8c7851; 
+}
+
+.navbar button {
+	background-color: #716040; 
+}
+
+ul .navbar-nav {
+	position: relative; 
+	right: 100pxpx; 
+}
+
+.slideshow img {
+	max-height: 550px;
+	max-width: 1500px;
+	background-position: cover; 
+	object-fit: cover; 
+}
+
+.home-wrapper {
+	background-color: #eaddcf;
+	border-radius: 10px;
+    padding: 0 10px 10px; 
+}
+
+.modal-wrapper {
+	background-color: #eaddcf; 
+	padding-bottom: 50px; 
+	padding-top: 30px; 
+}
+
+
+.common-questions .question {
+	border: 1px #716040 solid; 
+	background-color: #f9f4ef; 
+}
+
+.card-wrapper {
+	padding-top: 30px; 
+}
+
+.row h4 {
+	border-bottom: 3px #f25042eb solid; 
+}
+
+footer .copy {
+	background-color:  #8c7851; 
+}
